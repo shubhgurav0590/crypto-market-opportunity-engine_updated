@@ -1,0 +1,17 @@
+pandas
+numpy
+scikit-learn
+xgboost
+joblib
+scipy
+ta
+
+
+pandas==3.0.0
+numpy==2.4.2
+scikit-learn==1.8.0
+joblib==1.5.3
+python_binance==1.0.35
+requests==2.32.5
+python-dotenv==1.2.1
+pyarrow==23.0.0
